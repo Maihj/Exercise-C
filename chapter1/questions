@@ -24,3 +24,6 @@ Solution: See 1-9.c.
 
 Exercise 1-10. Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b, and each backslash by \\. This makes tabs and backspaces visible in an unambiguous way.
 Solution: See 1-10.c.
+
+Exercise 1-12. Write a program that prints its input one word per line.
+Solution: See 1-12.c
