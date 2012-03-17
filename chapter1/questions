@@ -26,4 +26,10 @@ Exercise 1-10. Write a program to copy its input to its output, replacing each t
 Solution: See 1-10.c.
 
 Exercise 1-12. Write a program that prints its input one word per line.
-Solution: See 1-12.c
+Solution: See 1-12.c.
+
+Exercise 1-13. Write a program to print a histogram of lengths of words in its input. It is easy to draw the histogram with the bars horizonal; a vertical orientation is more challenging.
+Solution: See 1-13.c.
+
+Exercise 1-14. Write a program to print a histogram of the frequencies of different characters in its input.
+Solution: See 1-14.c.
