@@ -1,0 +1,5 @@
+TODO
+
+1.Error handling needs to be concerned.
+
+2.Now, the output of file just can be read using "dmesg", so, needs to think about a method to print the file in the terminal.
